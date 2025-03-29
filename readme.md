@@ -1,7 +1,7 @@
 # Grupo
-- Alvaro Hibide Claver
-- Murilo Villela Martins
-- Marcello Pizzi Conti
+- Alvaro Hibide Claver (10368757)
+- Marcello Pizzi Conti (10388422)
+- Murilo Villela Martins (10402410)
 
 # Link para o Dataset
 https://www.kaggle.com/datasets/usdot/flight-delays?resource=download&select=flights.csv
