@@ -1,5 +1,4 @@
 # Grupo
-- Alvaro Hibide Claver (10368757)
 - Marcello Pizzi Conti (10388422)
 - Murilo Villela Martins (10402410)
 
