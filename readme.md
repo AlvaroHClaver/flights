@@ -2,6 +2,9 @@
 - Marcello Pizzi Conti (10388422)
 - Murilo Villela Martins (10402410)
 
+# Link para o Vídeo
+https://youtu.be/sgd_v-qBpAM
+
 # Link para o Dataset
 https://www.kaggle.com/datasets/usdot/flight-delays?resource=download&select=flights.csv
 
